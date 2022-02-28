@@ -1,0 +1,50 @@
+header{
+    
+    text-align: center;
+    background-image: url("https://fondosmil.com/fondo/31112.jpg");
+    padding: 1em 1em ;
+    color: white;
+    
+}
+ 
+form{
+    margin: 0%;
+    border-radius: 10%;
+    margin: 100px;
+    padding: 20; 
+    text-align: center;
+    max-width: 20%;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 254, 254);
+ 
+}
+body{
+    margin: 0%;
+    background-color: aliceblue;
+    background-image: url("https://www.wallpapertip.com/wmimgs/24-248061_677245-title-earth-from-space-wallpaper-planet-earth.jpg");
+}
+
+input, textarea{
+    max-width: 75%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    padding: 1%;
+    border: 1px solid rgb(2, 15, 85);
+}
+button{
+    margin: 10px;
+    color: aliceblue;
+    border-radius: 3px;
+    background-image: url("https://fondosmil.com/fondo/31112.jpg");
+}
+.T{
+    max-width: auto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    border:rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 5px ;
+    text-overflow: ellipsis;
+    }
